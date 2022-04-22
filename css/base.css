@@ -62,9 +62,15 @@ section {
 }
 
 h1 {
+  font-size: 1em;
+  margin: 0.67em 0;
+}
+
+.sub-logo{
   font-size: 2em;
   margin: 0.67em 0;
 }
+
 
 figcaption,
 figure,
